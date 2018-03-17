@@ -1,1 +1,3 @@
 # autoMapper
+
+This repo will be used for testing/proof of concept of a new map logging system for the game path of exile. It will aim to allow for map logging without using hotkeys which are required for current systems in place such as http://pathofmaps.com/maps. if succesful it will be used to create a full fledged mapper, or opened up to the community at large to use in new projects or in improving Path of Maps.
